@@ -1,0 +1,17 @@
+Please follow the instructions carefully.
+
+N.B :
+ - BEFORE UPDATING TO THE LATEST VERSION, WE WOULD HIGHLY APPRECIATE IF YOU KEEP A BACKUP OF THE EXISTING VERSION.
+
+ - Before updating to version 5.2, make sure that you currently running your product on version 5.1.
+
+Let's proceed,
+
+- First, upload the facebook-sdk-5.x.zip library upload in your server manually and extructed. You will find it inside the version-5.2 directory.
+- Manuall Uploading location: Root directory in your server > application > libraries > facebook-sdk-5.x
+
+- Now, go to system settings from settings menu in admin panel
+- Move to the section 'Update Product' on that page
+- Upload the file 'update_5.2.zip' which is located at update_pack > version-5.2 folder inside your copy of Academy app downloaded from Codecanyon.
+- Hit the button 'Update'.
+- That's it
